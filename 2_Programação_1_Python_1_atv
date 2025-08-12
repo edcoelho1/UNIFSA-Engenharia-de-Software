@@ -1,4 +1,5 @@
 #Nota: Para as questões com "peça",fiz uma função para forçar o usuário para oferecer valores válidos.
+#Aluno: Álvaro Lúcio Mousinho Coelho
 
 def secure_input(prompt):
     while True:
